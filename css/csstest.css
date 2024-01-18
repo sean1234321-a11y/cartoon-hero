@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	background-color: lightgrey;
 }
@@ -29,4 +30,37 @@ h2{
 
 h1 span{
 	color: violet;
+=======
+body{
+	background-color: lightgrey;
+}
+h1 {
+	font-size: 30px;
+	color: teal;
+}
+
+h2{
+	color: red;
+	font size: 20px;
+}
+
+h2{
+	color:green;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: navy;
+}
+
+h1 span{
+	color: violet;
+>>>>>>> 0fdb852493fdfa20f5b40fc81d0425d302acc734
 }
